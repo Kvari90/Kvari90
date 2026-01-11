@@ -21,29 +21,14 @@
 
 ## 🧠 Ключевые навыки
 
-**Engine & Tools**
-- Unreal Engine 5  
-- Blueprints  
-- Niagara VFX  
-- Git  
-
-**Gameplay & Systems**
-- Gameplay Systems  
-- AI (Behavior Tree, State Logic)  
-- Combat, Abilities, Progression  
-- Level Design  
-- Debugging & Optimization  
-
-**UI & Animation**
-- UMG (HUD, мини-карта, HP, XP, меню)  
-- Animation Blueprints  
-- Character States  
-
-**Languages**
-- C++ (basic)  
-
-**Languages**
-- English — B1 (Intermediate)
+| Категория | Навыки |
+|--------|-------|
+| **Engine & Tools** | Unreal Engine 5, Blueprints, Niagara VFX, Git |
+| **Gameplay & Systems** | Gameplay Systems, Combat, Abilities, Progression, Level Design |
+| **AI** | Behavior Tree, State Logic |
+| **UI** | UMG (HUD, мини-карта, HP, XP, меню) |
+| **Animation** | Animation Blueprints, Character States |
+| **Optimization** | Debugging, Blueprint Optimization |
 
 ---
 
